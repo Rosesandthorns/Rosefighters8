@@ -1,0 +1,6 @@
+{
+  "name": "Super Block Bros",
+  "description": "A real-time multiplayer brawler featuring placeholder blocks, ready for your OC sprites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
